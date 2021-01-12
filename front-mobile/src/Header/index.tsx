@@ -15,7 +15,7 @@ const styles = StyleSheet.create({
     container: {
         backgroundColor: '#DA5C5C',
         height: 90,
-        padddingTop: 50,
+        paddingTop: 50,
         flexDirection: 'row',
         justifyContent: 'center'
     },
@@ -27,6 +27,6 @@ const styles = StyleSheet.create({
         letterSpacing: -0.24,
         color: '#fff',
         marginLeft: 15,
-        fontFamily: 'OpenSans_700Bold '
+        fontFamily: 'OpenSans_700Bold'
     }
 }); 
